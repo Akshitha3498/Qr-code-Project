@@ -28,6 +28,7 @@ img{
     left:620px;
     bottom:190px;
     text-align: center;
+    top:400px;
     
 }
 h3{
@@ -62,7 +63,13 @@ p{
         position: absolute;
         left: 120px;
         font-size: 15px;
+        
     }
     
+}
+
+.main{
+    position:absolute;
+    top:80px;
 }
 
